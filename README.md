@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ssaimur
-### 👀 I’m interested in Javascript 
+### 👀 I’m interested in Web Development 
 ### 🌱 I’m currently learning Node.js
-### 💞️ I’m looking to collaborate on open source frontend projects
+### 💞️ I’m looking to collaborate on open source Javascript, React, Node & Express projects
 ## 📫 Reach me: 
 - **Email:** saimur715@gmail.com
 - **Whatsapp:** 01708936473
