@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fexample.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/saim_shab?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fssaimur&screen_name=saim_shab)
 
-## I'm a Son, Student and Developer!!
+## Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers
